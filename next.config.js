@@ -12,7 +12,7 @@ module.exports = {
     remotePatterns: [
       {
         protocol: 'https',
-        hostname: 'cdn.shopify.com',
+        hostname: 'medusa.streampayments.app',
         pathname: '/s/files/**'
       }
     ]
